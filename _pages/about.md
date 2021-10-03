@@ -8,12 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Northeastern University, advised by [Alina Oprea](http://www.ccs.neu.edu/home/alina/index.html) and [Cristina Nita-Rotaru](http://cnitarot.github.io) and I am affiliated with Network and Distributed Systems Security Lab [(NDS2)](https://nds2.ccs.neu.edu).
+I am a PhD candidate at Northeastern University, advised by [Alina Oprea](http://www.ccs.neu.edu/home/alina/index.html) and I am affiliated with Network and Distributed Systems Security Lab [(NDS2)](https://nds2.ccs.neu.edu).
 
-I am interested in the security of home-based IoT networks. Currently, I am working on applying machine learning techniques to process IoT-generated data to provide implicit authentication mechanisms. I conduct experiments in our IoT test lab, [MON(IOT)R](https://moniotrlab.ccis.neu.edu).
+I am generally interested in efficient threat detection using machine learning techniques. Currently, I am working on investigating robust and effective detectors to protect large scale networks with information sharing across organizations. I have worked on large-scale malware detection systems, specifically focusing on self-propagating malware.
 
-I am also working on large scale malware detection systems, specifically focusing on self-propagating malware.
-
-I am also interested in automated vulnerability discovery and fuzzing. We are investigating methods combining machine-learning based static analysis to guide the fuzzing process to make it more efficient.
+In the past, I also worked on implicit authentication mechanisms for IoT ecosystems, and performed experiments in our IoT test lab, [MON(IOT)R](https://moniotrlab.ccis.neu.edu).
 
 Prior to joining Northeastern, I was a software developer at SAP, working on [SAP VORA](https://www.sap.com/products/hana-vora-hadoop.html), a distributed in-memory database solution on Hadoop data.
