@@ -8,12 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at Northeastern University, advised by [Alina Oprea](http://www.ccs.neu.edu/home/alina/index.html) and I am affiliated with Network and Distributed Systems Security Lab [(NDS2)](https://nds2.ccs.neu.edu).
+Senior Engineer at CrowdStrike, Advanced Research. 
+Experienced in cyber-threat detection from endpoint/network telemetry, machine learning for cybersecurity, anomaly detection, active learning under limited labels, and collaborative/federated detection across organizations.
 
-I am generally interested in effective cyber-threat detection using machine learning techniques. Currently, I am working on investigating robust and effective detectors to protect large scale networks with information sharing across organizations. I have worked on large-scale malware detection systems, specifically focusing on self-propagating malware.
-
-I have been a Research Intern at Microsoft, investigating active learning methods for Living-Off-The-Land command detection to protect systems against evasive adversaries.
-
-In the past, I also worked on implicit authentication mechanisms for IoT ecosystems, and performed experiments in our IoT test lab, [MON(IOT)R](https://moniotrlab.ccis.neu.edu).
-
-Prior to joining Northeastern, I was a software developer at SAP, working on distributed database systems.
+Previously, I completed my Ph.D. in Computer Science at Northeastern University, advised by [Alina Oprea](http://www.ccs.neu.edu/home/alina/index.html) and affiliated with the Network and Distributed Systems Security Lab [(NDS2)](https://nds2.ccs.neu.edu). My research has included large-scale malware detection, living-off-the-land command detection from my Microsoft Research internship, self-propagating malware detection, federated threat detection, and IoT-based authentication.
+Prior to Northeastern, I worked as a software developer at SAP on distributed database systems
